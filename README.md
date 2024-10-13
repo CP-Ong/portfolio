@@ -20,7 +20,11 @@ This section highlights the courses and certifications I have completed to learn
    - Platform: Coursera  
    - Completion: September 2024
 
-2. **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** - The University of California, Davis  
+2. **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** - Dr Angela Yu
+   - Platform: Udemy
+   - **Stopped** after Day 38 to focus on other data science skills
+
+4. **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** - The University of California, Davis  
    - Platform: Coursera  
    - Completion: September 2024
 
@@ -34,7 +38,7 @@ This section highlights the courses and certifications I have completed to learn
 1. **Complete A.I. & Machine Learning, Data Science Bootcamp** - Andrei Neagoie & Daniel Bourke  
    - Platform: Udemy
 
-2. **100 Days of Code: The Complete Python Pro Bootcamp** - Dr Angela Yu  
+2. **Python Data Structures & Algorithms + LEETCODE Exercises** - Scott Barrett 
    - Platform: Udemy
 
 3. **The Git & GitHub Bootcamp** - Colt Steele  
