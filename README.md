@@ -24,24 +24,28 @@ This section highlights the courses and certifications I have completed to learn
    - Platform: Udemy
    - **Stopped** after Day 38 to focus on other data science skills
 
-4. **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** - The University of California, Davis  
+3. **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** - The University of California, Davis  
    - Platform: Coursera  
    - Completion: September 2024
 
 ### Machine Learning
 1. **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** - DeepLearning.AI & Stanford Online
-   
    - Platform: Coursera  
    - Completion: September 2024
 
+### Version Control System
+1. **[The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-9055dd29-5480-44d9-9543-a31450e14468/)** - Colt Steele
+   - Platform: Udemy 
+   - Completion: October 2024
+   
 ### In Progress (October 2024 - Current)
-1. **Complete A.I. & Machine Learning, Data Science Bootcamp** - Andrei Neagoie & Daniel Bourke  
+1. **[Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)** - Andrei Neagoie & Daniel Bourke  
    - Platform: Udemy
 
-2. **Python Data Structures & Algorithms + LEETCODE Exercises** - Scott Barrett 
+2. **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** - Scott Barrett 
    - Platform: Udemy
 
-3. **The Git & GitHub Bootcamp** - Colt Steele  
+3. **[Complete SQL and Databases Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)** - Andrei Neagoie & Mo Binni 
    - Platform: Udemy
 
 
