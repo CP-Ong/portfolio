@@ -15,7 +15,7 @@ This section highlights the courses and certifications I have completed to learn
 |  |  |  |  |  |  |
 | Python | **[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/DIRJ3WEMJMCL)** | University of Michigan | Coursera | 10/09/2024 | 14/09/2024 |
 | Python | **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** | Dr Angela Yu | Udemy | 23/09/2024 | **Stopped** after Day 38 to focus on data science |
-| Python | **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** | Scott Barrett | Udemy | 13/10/2024 | **In Progress** |
+| Python | **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** | Scott Barrett | Udemy | 13/10/2024 | **Stopped** to focus on data science |
 |  |  |  |  |  |  |
 | SQL | **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** | The University of California, Davis | Coursera | 29/09/2024 | 30/09/2024 |
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)** | Andrei Neagoie & Mo Binni | Udemy | 16/10/2024 | **In Progress** |
