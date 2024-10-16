@@ -42,11 +42,12 @@ This section highlights the courses and certifications I have completed to learn
 1. **[Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)** - Andrei Neagoie & Daniel Bourke  
    - Platform: Udemy
 
-2. **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** - Scott Barrett 
+2. **[Complete SQL and Databases Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)** - Andrei Neagoie & Mo Binni 
    - Platform: Udemy
 
-3. **[Complete SQL and Databases Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)** - Andrei Neagoie & Mo Binni 
+3. **[Data pre-processing for Machine Learning in Python](https://www.udemy.com/course/data-pre-processing-for-machine-learning-in-python/)** - Gianluca Malato 
    - Platform: Udemy
-
-
+     
+4. **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** - Scott Barrett 
+   - Platform: Udemy
 
