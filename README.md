@@ -18,10 +18,10 @@ This section highlights the courses and certifications I have completed to learn
 | Python | **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** | Udemy | 13/10/2024 | **Stopped** |
 |  |  |  |  |  |  
 | Machine Learning | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** | Coursera | 02/09/2024 | 08/09/2024 |
-| Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/course/machinelearning/)** | Udemy | 19/10/2024 | **In Progress** |
+| Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/course/machinelearning/)** | Udemy | 21/10/2024 | **In Progress** |
 |  |  |  |  |  |  
 | Data Science | **[Data pre-processing for Machine Learning in Python](https://www.udemy.com/certificate/UC-bdb16464-e20f-4849-a01b-c49639c3990e/)** | Udemy | 18/10/2024 | 18/10/2024 |
-| Data Science | **[Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)** | Udemy | 30/09/2024 | **In Progress** |
+| Data Science | **[Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/certificate/UC-e08a862d-5ace-4257-9d54-6b054c880324/)** | Udemy | 30/09/2024 | 21/10/2024 |
 |  |  |  |  |  |  
 | SQL | **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** | Coursera | 29/09/2024 | 30/09/2024 |
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)** | Udemy | 16/10/2024 | **In Progress** |
