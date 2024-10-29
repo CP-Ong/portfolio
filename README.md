@@ -33,6 +33,6 @@ This section highlights the courses and certifications I have completed to learn
 |  |  |  |  |  |   
 | Power BI | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | **Not Yet** | **Not Yet** |
 |  |  |  |  |  |  
-| A/B Testing | **[Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/)** | Udemy | 23/10/2024 | 29/10/2024 |
+| A/B Testing | **[Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/certificate/UC-b1d01db5-36da-4649-877c-432f1cec6fa9/)** | Udemy | 23/10/2024 | 29/10/2024 |
 |  |  |  |  |  | 
 | Git & GitHub | **[The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-9055dd29-5480-44d9-9543-a31450e14468/)** | Udemy | 30/09/2024 | 13/10/2024 |
