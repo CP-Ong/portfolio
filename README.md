@@ -10,7 +10,7 @@ This portfolio serves as a collection of projects and accomplishments to track m
 This section includes my personal SQL, Python, Machine Learning, and Deep Learning projects. Furthermore, some beginner and guided projects I have done can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science) and [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
 
 ## SQL Projects
-### [Project 1: Data Cleaning & EDA on Layoffs Dataset](SQL/Layoffs-Dataset)
+### [Project 1: Data Cleaning & EDA on the Layoffs Dataset](SQL/Layoffs-Dataset)
   > Tech firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas are hinting towards possible recession
   > and tech firms have started laying employees off. This economic slowdown has made Meta recently fire 13% of its workforce, which amounts to more than 11,000 employees.
   > This dataset was made with the hope to enable Kaggle community to look into analyzing recent tech turmoil and discover useful insights. (FROM KAGGLE)
