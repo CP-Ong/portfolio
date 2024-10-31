@@ -6,10 +6,38 @@ This portfolio serves as a collection of projects and accomplishments to track m
   - University: University of Warwick, United Kingdom  
   - Duration: September 2020 - July 2024
 
-## Projects
-This section includes my personal SQL, Microsoft Excel, Python, Machine Learning, and Deep Learning projects. Furthermore, some beginner and guided projects I have done can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science) and [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
+## Personal Projects
+This section includes my personal projects. Currently, I am working on projects related to healthcare.
 
-## SQL Project(s)
+## Guided Projects
+This section includes guided/beginner projects. The details on my guided data science projects can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science), and the details on my guided Python projects can be found on [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
+
+### <ins>Data Science Projects (Machine Learning/Deep Learning)</ins>
+### [Project 1: Predicting Heart Disease Using Machine Learning (Classification)](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Classification_Heart-Disease)
+  > Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+
+The original data came from the Cleveland data from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease).
+A version of it is also available on [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data).
+
+### [Project 2: Predicting the Sale Price of Bulldozers Using Machine Learning (Regression_Time-Series-Data)](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Regression_Bulldozer-Price)
+  > How well can we predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for?
+
+The original data came from the [Kaggle Bluebook for Bulldozers competition](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data).
+
+### [Project 3: Multi-Class Dog Breed Classification (Image_Classification)](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Image-Classification_Dog-Vision)
+  > Given an image of a dog, can we identify the breed of the dog?
+
+The original data came from the [Kaggle's dog breed identification competition](https://www.kaggle.com/c/dog-breed-identification/data).
+
+### <ins>Python Projects</ins>
+### [Project 1: Blackjack Card Game](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project1_Blackjack-Game)
+  > Created a game of Blackjack.
+### [Project 2: Turtle Crossing Game](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project2_Turtle-Crossing-Game)
+  > Created a turtle crossing game using OOP.
+### [Project 3: Flash Card App](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project3_Flash-Card-App)
+  > Created a simple flash card app using tkinter and pandas.
+
+### <ins>SQL Project(s)</ins>
 ### [Project 1: Data Cleaning & EDA on the Layoffs Dataset](SQL/Layoffs-Dataset)
   > Tech firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas are hinting towards possible recession
   > and tech firms have started laying employees off. This economic slowdown has made Meta recently fire 13% of its workforce, which amounts to more than 11,000 employees.
@@ -18,7 +46,7 @@ This section includes my personal SQL, Microsoft Excel, Python, Machine Learning
 In conclusion, I found companies with the most total layoffs per year (showing the top 5 each year).
 The original data came from [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
 
-## Microsoft Excel Project(s)
+### <ins>Microsoft Excel Project(s)</ins>
 ### [Project 1: Data Cleaning & Dashboard Creation on Bike Sales Dataset](Excel/Bike-Sales-Dataset)
   > This dataset contains data about bike sales depending on different variables such as marital status, gender, income, children, education, occupation, home owner, cars, commute distance, region, and age.
   > Data cleaning is required before creating a useful interactive dashboard.
