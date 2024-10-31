@@ -7,17 +7,24 @@ This portfolio serves as a collection of projects and accomplishments to track m
   - Duration: September 2020 - July 2024
 
 ## Projects
-This section includes my personal SQL, Python, Machine Learning, and Deep Learning projects. Furthermore, some beginner and guided projects I have done can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science) and [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
+This section includes my personal SQL, Microsoft Excel, Python, Machine Learning, and Deep Learning projects. Furthermore, some beginner and guided projects I have done can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science) and [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
 
-## SQL Projects
+## SQL Project(s)
 ### [Project 1: Data Cleaning & EDA on the Layoffs Dataset](SQL/Layoffs-Dataset)
   > Tech firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas are hinting towards possible recession
   > and tech firms have started laying employees off. This economic slowdown has made Meta recently fire 13% of its workforce, which amounts to more than 11,000 employees.
   > This dataset was made with the hope to enable Kaggle community to look into analyzing recent tech turmoil and discover useful insights. (FROM KAGGLE)
 
 In conclusion, I found companies with the most total layoffs per year (showing the top 5 each year).
-The original data came from Kaggle.
-https://www.kaggle.com/datasets/swaptr/layoffs-2022
+The original data came from [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
+
+## Microsoft Excel Project(s)
+### [Project 1: Data Cleaning & Dashboard Creation on Bike Sales Dataset](Excel/Bike-Sales-Dataset)
+  > This dataset contains data about bike sales depending on different variables such as marital status, gender, income, children, education, occupation, home owner, cars, commute distance, region, and age.
+  > Data cleaning is required before creating a useful interactive dashboard.
+
+In conclusion, I cleaned the data and created an interactive dashboard.
+The original data came from [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx).
 
 ## Courses and Certifications
 This section highlights the courses and certifications I have completed to learn new skills in relevant topics. These courses cover essential topics like mathematics and statistics, Python programming, machine learning, SQL, Excel, A/B Testing, data visualization tools, and Git.
@@ -42,8 +49,10 @@ This section highlights the courses and certifications I have completed to learn
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
 | SQL | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 30/10/2024 |
 |  |  |  |  |  |  
-| Excel | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 31/10/2024 | **In Progress** |
+| Excel | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 31/10/2024 |
 |  |  |  |  |  |   
+| Tableau | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 01/11/2024 | **In Progress** |
+|  |  |  |  |  |  
 | Power BI | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | **Not Yet** | **Not Yet** |
 |  |  |  |  |  |  
 | A/B Testing | **[Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/certificate/UC-b1d01db5-36da-4649-877c-432f1cec6fa9/)** | Udemy | 23/10/2024 | 29/10/2024 |
