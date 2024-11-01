@@ -7,7 +7,7 @@ This portfolio serves as a collection of projects and accomplishments to track m
   - Duration: September 2020 - July 2024
 
 ## Personal Projects
-This section includes my personal projects. Currently, I am working on projects related to healthcare.
+This section includes my personal projects. Currently, I am working on the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) on Kaggle.
 
 ## Guided Projects
 This section includes guided/beginner projects. The details on my guided data science projects can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science), and the details on my guided Python projects can be found on [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
