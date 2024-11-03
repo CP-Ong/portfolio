@@ -35,13 +35,13 @@ The original data came from the [Kaggle's dog breed identification competition](
 ### [Project 2: Turtle Crossing Game](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project2_Turtle-Crossing-Game)
   > Created a turtle crossing game using OOP.
 ### [Project 3: Flash Card App](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project3_Flash-Card-App)
-  > Created a simple flash card app using tkinter and pandas.
+  > Created a simple flashcard app using Tkinter and Pandas.
 
 ### <ins>SQL Project(s)</ins>
 ### [Project 1: Data Cleaning & EDA on the Layoffs Dataset](SQL/Layoffs-Dataset)
-  > Tech firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas are hinting towards possible recession
-  > and tech firms have started laying employees off. This economic slowdown has made Meta recently fire 13% of its workforce, which amounts to more than 11,000 employees.
-  > This dataset was made with the hope to enable Kaggle community to look into analyzing recent tech turmoil and discover useful insights. (FROM KAGGLE)
+  > Tech firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas hint towards a possible recession
+  > and tech firms have started laying employees off. This economic slowdown has caused Meta to fire 13% of its workforce, which is more than 11,000 employees.
+  > This dataset was made with the hope of enabling the Kaggle community to look into analyzing recent tech turmoil and discover useful insights. (FROM KAGGLE)
 
 In conclusion, I found companies with the most total layoffs per year (showing the top 5 each year).
 The original data came from [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
@@ -80,8 +80,6 @@ This section highlights the courses and certifications I have completed to learn
 | Excel | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 31/10/2024 |
 |  |  |  |  |  |   
 | Tableau | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 01/11/2024 | 01/11/2024 |
-|  |  |  |  |  |  
-| Power BI | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 03/11/2024 | **In Progress** |
 |  |  |  |  |  |  
 | A/B Testing | **[Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/certificate/UC-b1d01db5-36da-4649-877c-432f1cec6fa9/)** | Udemy | 23/10/2024 | 29/10/2024 |
 |  |  |  |  |  | 
