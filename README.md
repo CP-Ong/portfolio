@@ -6,8 +6,13 @@ This portfolio serves as a collection of projects and accomplishments to track m
   - University: University of Warwick, United Kingdom  
   - Duration: September 2020 - July 2024
 
-## Personal Projects
-This section includes my personal projects. Currently, I am working on the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) on Kaggle.
+## Personal Data Science Projects
+This section includes my personal projects.
+
+### [Project 1: Predicting Stroke Using Machine Learning (Classification)](Data_Science/Classification_Stroke)
+  > We aim to visualize the relationships between various habits/factors and strokes & predict stroke events with the best model and hyper-tuned parameters.
+
+The original data came from [kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
 
 ## Guided Projects
 This section includes guided/beginner projects. The details on my guided data science projects can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science), and the details on my guided Python projects can be found on [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
