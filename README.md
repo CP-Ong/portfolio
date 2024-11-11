@@ -1,5 +1,5 @@
-# Data Analyst/Data Science Portfolio by Chen Ping Ong
-This portfolio serves as a collection of projects and accomplishments to track my progress as an aspiring data analyst/data scientist. It showcases my skills and expertise in data analysis, data science, machine learning, and related fields. I am currently seeking a data analyst/data science role where I can apply my knowledge and grow further in the field.
+# Data Science Portfolio by Chen Ping Ong
+This portfolio serves as a collection of projects and accomplishments to track my progress as an aspiring data scientist. It showcases my skills and expertise in data analysis, data science, machine learning, and related fields. I am currently seeking a data science role where I can apply my knowledge and grow further in the field.
 
 ## Background
 - **Master of Mathematics**  
@@ -7,12 +7,12 @@ This portfolio serves as a collection of projects and accomplishments to track m
   - Duration: September 2020 - July 2024
 
 ## Personal Data Science Projects
-This section includes my personal projects.
+This section includes my personal projects. Currently, I am working on the [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data) dataset. 
 
 ### [Project 1: Predicting Stroke Using Machine Learning (Classification)](Data_Science/Classification_Stroke)
   > We aim to visualize the relationships between various habits/factors and strokes & predict stroke events with the best model and hyper-tuned parameters.
 
-The original data came from [kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
+The original data came from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
 
 ## Guided Projects
 This section includes guided/beginner projects. The details on my guided data science projects can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science), and the details on my guided Python projects can be found on [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
@@ -76,7 +76,8 @@ This section highlights the courses and certifications I have completed to learn
 | Machine Learning | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** | Coursera | 02/09/2024 | 08/09/2024 |
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
-| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | 30/10/2024 | **In Progress** |
+| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | 11/11/2024 | **In Progress** |
+| Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)** | Udemy | **Not Yet** | **Not Yet** |
 |  |  |  |  |  |
 | SQL | **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** | Coursera | 29/09/2024 | 30/09/2024 |
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
