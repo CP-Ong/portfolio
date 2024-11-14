@@ -7,7 +7,7 @@ This portfolio serves as a collection of projects and accomplishments to track m
   - Duration: September 2020 - July 2024
 
 ## Personal Data Science Projects
-This section includes my personal projects. Currently, I am working on the [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data) dataset. 
+This section includes my personal projects. Currently, I am working on a sentiment analysis project on reviews for the Steam game [Black Myth: Wukong](https://steamcommunity.com/app/2358720/reviews/?p=1&browsefilter=mostrecent#scrollTop=0).
 
 ### [Project 1: Predicting Stroke Using Machine Learning (Classification)](Data_Science/Classification_Stroke)
   > We aim to visualize the relationships between various habits/factors and strokes & predict stroke events with the best model and hyper-tuned parameters.
