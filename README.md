@@ -7,43 +7,51 @@ This portfolio serves as a collection of projects and accomplishments to track m
   - Duration: September 2020 - July 2024
 
 ## Personal Data Science Projects
-This section includes my personal projects. Currently, I am working on a sentiment analysis project on reviews for the Steam game [Black Myth: Wukong](https://steamcommunity.com/app/2358720/reviews/?p=1&browsefilter=mostrecent#scrollTop=0).
+This section includes my personal projects in data science.
 
-### [Project 1: Predicting Stroke Using Machine Learning (Classification)](Data_Science/Classification_Stroke)
+### Project 1: Predicting Stroke Using Machine Learning (Classification) $|$ [<ins>See Here!</ins>](Data_Science/Classification_Stroke)
   > We aim to visualize the relationships between various habits/factors and strokes & predict stroke events with the best model and hyper-tuned parameters.
 
 The original data came from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
 
-## Guided Projects
-This section includes guided/beginner projects. The details on my guided data science projects can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science), and the details on my guided Python projects can be found on [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
+### Project 2: Sentiment Analysis Of Steam Game Reviews (Black Myth: Wukong) $|$ **IN PROGRESS**
+  > We aim to develop a sentiment analysis model using natural language processing (NLP) techniques to analyze Steam reviews for Black Myth: Wukong. This model will identify key drivers of positive and negative user sentiment, providing actionable insights to help game developers address weaknesses and implement data-driven improvements that enhance player satisfaction.
 
-### <ins>Data Science Projects (Machine Learning/Deep Learning)</ins>
-### [Project 1: Predicting Heart Disease Using Machine Learning (Classification)](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Classification_Heart-Disease)
+The data was scraped from the [Steam Review Page](https://steamcommunity.com/app/2358720/reviews/) for the game from *10 September 2024* to *14 November 2024* (around 2 months).
+
+## Guided Data Science Projects
+This section includes guided/beginner projects in data science. The details on these projects can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science).
+
+### Project 1: Predicting Heart Disease Using Machine Learning (Classification) $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Classification_Heart-Disease)
   > Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 The original data came from the Cleveland data from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease).
 A version of it is also available on [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data).
 
-### [Project 2: Predicting the Sale Price of Bulldozers Using Machine Learning (Regression_Time-Series-Data)](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Regression_Bulldozer-Price)
+### Project 2: Predicting the Sale Price of Bulldozers Using Machine Learning (Regression_Time-Series) $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Regression_Bulldozer-Price)
   > How well can we predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for?
 
 The original data came from the [Kaggle Bluebook for Bulldozers competition](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data).
 
-### [Project 3: Multi-Class Dog Breed Classification (Image_Classification)](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Image-Classification_Dog-Vision)
+### Project 3: Multi-Class Dog Breed Classification (Image_Classification) $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Image-Classification_Dog-Vision)
   > Given an image of a dog, can we identify the breed of the dog?
 
 The original data came from the [Kaggle's dog breed identification competition](https://www.kaggle.com/c/dog-breed-identification/data).
 
-### <ins>Python Projects</ins>
-### [Project 1: Blackjack Card Game](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project1_Blackjack-Game)
+## Guided Python Projects
+This section includes guided/beginner projects in Python. The details on these projects can be found on [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
+
+### Project 1: Blackjack Card Game $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project1_Blackjack-Game)
   > Created a game of Blackjack.
-### [Project 2: Turtle Crossing Game](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project2_Turtle-Crossing-Game)
+### Project 2: Turtle Crossing Game $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project2_Turtle-Crossing-Game)
   > Created a turtle crossing game using OOP.
-### [Project 3: Flash Card App](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project3_Flash-Card-App)
+### Project 3: Flash Card App $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project3_Flash-Card-App)
   > Created a simple flashcard app using Tkinter and Pandas.
 
-### <ins>SQL Project(s)</ins>
-### [Project 1: Data Cleaning & EDA on the Layoffs Dataset](SQL/Layoffs-Dataset)
+## Guided Python Projects
+This section includes guided/beginner projects in SQL and Excel.
+
+### Project 1: Data Cleaning & EDA on the Layoffs Dataset (SQL) $|$ [<ins>See Here!</ins>](SQL/Layoffs-Dataset)
   > Tech firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas hint towards a possible recession
   > and tech firms have started laying employees off. This economic slowdown has caused Meta to fire 13% of its workforce, which is more than 11,000 employees.
   > This dataset was made with the hope of enabling the Kaggle community to look into analyzing recent tech turmoil and discover useful insights. (FROM KAGGLE)
@@ -51,8 +59,7 @@ The original data came from the [Kaggle's dog breed identification competition](
 In conclusion, I found companies with the most total layoffs per year (showing the top 5 each year).
 The original data came from [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
 
-### <ins>Microsoft Excel Project(s)</ins>
-### [Project 1: Data Cleaning & Dashboard Creation on Bike Sales Dataset](Excel/Bike-Sales-Dataset)
+### Project 2: Data Cleaning & Dashboard Creation on Bike Sales Dataset (Excel) $|$ [<ins>See Here!</ins>](Excel/Bike-Sales-Dataset)
   > This dataset contains data about bike sales depending on different variables such as marital status, gender, income, children, education, occupation, home owner, cars, commute distance, region, and age.
   > Data cleaning is required before creating a useful interactive dashboard.
 
@@ -67,17 +74,18 @@ This section highlights the courses and certifications I have completed to learn
 | Mathematics | **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/KRUFN4LE739W)** | Coursera | 20/09/2024 | 22/09/2024 |
 |  |  |  |  |  |  
 | Python | **[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/DIRJ3WEMJMCL)** | Coursera | 10/09/2024 | 14/09/2024 |
-| Python | **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** | Udemy | 23/09/2024 | **Stopped** Day 40 |
-| Python | **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** | Udemy | 13/10/2024 | **Stopped** |
+| Python | **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** | Udemy | 23/09/2024 | **TBD** (Day 40) |
+| Python | **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  | 
 | Data Science | **[Data pre-processing for Machine Learning in Python](https://www.udemy.com/certificate/UC-bdb16464-e20f-4849-a01b-c49639c3990e/)** | Udemy | 18/10/2024 | 18/10/2024 |
 | Data Science | **[Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/certificate/UC-e08a862d-5ace-4257-9d54-6b054c880324/)** | Udemy | 30/09/2024 | 21/10/2024 |
+| Data Science | **[2025 Deploy ML Model in Production with FastAPI and Docker](https://www.udemy.com/course/nlp-with-bert-in-python/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |  
 | Machine Learning | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** | Coursera | 02/09/2024 | 08/09/2024 |
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
-| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | 20/11/2024 | **In Progress** |
-| Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)** | Udemy | 20/11/2024 | **In Progress** |
+| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | **TBD** | **TBD** |
+| Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |
 | SQL | **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** | Coursera | 29/09/2024 | 30/09/2024 |
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
