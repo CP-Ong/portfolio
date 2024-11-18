@@ -76,8 +76,8 @@ This section highlights the courses and certifications I have completed to learn
 | Machine Learning | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** | Coursera | 02/09/2024 | 08/09/2024 |
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
-| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | 13/11/2024 | **In Progress** |
-| Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)** | Udemy | 13/11/2024 | **In Progress** |
+| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | 20/11/2024 | **In Progress** |
+| Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)** | Udemy | 20/11/2024 | **In Progress** |
 |  |  |  |  |  |
 | SQL | **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** | Coursera | 29/09/2024 | 30/09/2024 |
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
