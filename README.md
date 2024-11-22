@@ -9,12 +9,12 @@ This portfolio serves as a collection of projects and accomplishments to track m
 ## Personal Data Science Projects
 This section includes my personal projects in data science.
 
-### Project 1: Predicting Stroke Using Machine Learning (Classification) $|$ [<ins>See Here!</ins>](Data_Science/Classification_Stroke)
+### Project 1: Predicting Stroke Using Machine Learning (Classification) &nbsp; | &nbsp; [<ins>See Here!</ins>](Data_Science/Classification_Stroke)
   > We aim to visualize the relationships between various habits/factors and strokes & predict stroke events with the best model and hyper-tuned parameters.
 
 The original data came from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
 
-### Project 2: Sentiment Analysis Of Steam Game Reviews (Black Myth: Wukong) $|$ [<ins>See Here!</ins>](Data_Science/Sentiment-Analysis_Game-Reviews)
+### Project 2: Sentiment Analysis Of Steam Game Reviews (Black Myth: Wukong) &nbsp; | &nbsp; [<ins>See Here!</ins>](Data_Science/Sentiment-Analysis_Game-Reviews)
   > We aim to develop a sentiment analysis model using natural language processing (NLP) techniques to analyze Steam reviews for Black Myth: Wukong. This model will identify key drivers of positive and negative user sentiment, providing actionable insights to help game developers address weaknesses and implement data-driven improvements that enhance player satisfaction.
 
 The data was scraped from the [Steam Review Page](https://steamcommunity.com/app/2358720/reviews/) for the game from *10 September 2024* to *14 November 2024* (around 2 months).
@@ -22,18 +22,18 @@ The data was scraped from the [Steam Review Page](https://steamcommunity.com/app
 ## Guided Data Science Projects
 This section includes guided/beginner projects in data science. The details on these projects can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science).
 
-### Project 1: Predicting Heart Disease Using Machine Learning (Classification) $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Classification_Heart-Disease)
+### Project 1: Predicting Heart Disease Using Machine Learning (Classification) &nbsp; | &nbsp; [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Classification_Heart-Disease)
   > Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 The original data came from the Cleveland data from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease).
 A version of it is also available on [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data).
 
-### Project 2: Predicting the Sale Price of Bulldozers Using Machine Learning (Regression_Time-Series) $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Regression_Bulldozer-Price)
+### Project 2: Predicting the Sale Price of Bulldozers Using Machine Learning (Regression) &nbsp; | &nbsp; [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Regression_Bulldozer-Price)
   > How well can we predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for?
 
 The original data came from the [Kaggle Bluebook for Bulldozers competition](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data).
 
-### Project 3: Multi-Class Dog Breed Classification (Image_Classification) $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Image-Classification_Dog-Vision)
+### Project 3: Multi-Class Dog Breed Classification (Image_Classification) &nbsp; | &nbsp; [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-data-science/tree/f05cfb090dfeb2adfc6d1d2ae54873b495255ab9/Image-Classification_Dog-Vision)
   > Given an image of a dog, can we identify the breed of the dog?
 
 The original data came from the [Kaggle's dog breed identification competition](https://www.kaggle.com/c/dog-breed-identification/data).
@@ -41,17 +41,17 @@ The original data came from the [Kaggle's dog breed identification competition](
 ## Guided Python Projects
 This section includes guided/beginner projects in Python. The details on these projects can be found on [Beginner Python Projects](https://github.com/CP-Ong/beginner-projects-python).
 
-### Project 1: Blackjack Card Game $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project1_Blackjack-Game)
+### Project 1: Blackjack Card Game &nbsp; | &nbsp; [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project1_Blackjack-Game)
   > Created a game of Blackjack.
-### Project 2: Turtle Crossing Game $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project2_Turtle-Crossing-Game)
+### Project 2: Turtle Crossing Game &nbsp; | &nbsp; [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project2_Turtle-Crossing-Game)
   > Created a turtle crossing game using OOP.
-### Project 3: Flash Card App $|$ [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project3_Flash-Card-App)
+### Project 3: Flash Card App &nbsp; | &nbsp; [<ins>See Here!</ins>](https://github.com/CP-Ong/beginner-projects-python/tree/3050f4be5759b283307d1de0580f85ab9f730d1f/Project3_Flash-Card-App)
   > Created a simple flashcard app using Tkinter and Pandas.
 
 ## Guided Python Projects
 This section includes guided/beginner projects in SQL and Excel.
 
-### Project 1: Data Cleaning & EDA on the Layoffs Dataset (SQL) $|$ [<ins>See Here!</ins>](SQL/Layoffs-Dataset)
+### Project 1: Data Cleaning & EDA on the Layoffs Dataset (SQL) &nbsp; | &nbsp; [<ins>See Here!</ins>](SQL/Layoffs-Dataset)
   > Tech firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas hint towards a possible recession
   > and tech firms have started laying employees off. This economic slowdown has caused Meta to fire 13% of its workforce, which is more than 11,000 employees.
   > This dataset was made with the hope of enabling the Kaggle community to look into analyzing recent tech turmoil and discover useful insights. (FROM KAGGLE)
@@ -59,7 +59,7 @@ This section includes guided/beginner projects in SQL and Excel.
 In conclusion, I found companies with the most total layoffs per year (showing the top 5 each year).
 The original data came from [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
 
-### Project 2: Data Cleaning & Dashboard Creation on Bike Sales Dataset (Excel) $|$ [<ins>See Here!</ins>](Excel/Bike-Sales-Dataset)
+### Project 2: Data Cleaning & Dashboard Creation on Bike Sales Dataset (Excel) &nbsp; | &nbsp; [<ins>See Here!</ins>](Excel/Bike-Sales-Dataset)
   > This dataset contains data about bike sales depending on different variables such as marital status, gender, income, children, education, occupation, home owner, cars, commute distance, region, and age.
   > Data cleaning is required before creating a useful interactive dashboard.
 
