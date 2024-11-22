@@ -79,13 +79,13 @@ This section highlights the courses and certifications I have completed to learn
 |  |  |  |  |  | 
 | Data Science | **[Data pre-processing for Machine Learning in Python](https://www.udemy.com/certificate/UC-bdb16464-e20f-4849-a01b-c49639c3990e/)** | Udemy | 18/10/2024 | 18/10/2024 |
 | Data Science | **[Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/certificate/UC-e08a862d-5ace-4257-9d54-6b054c880324/)** | Udemy | 30/09/2024 | 21/10/2024 |
-| Data Science | **[2025 Deploy ML Model in Production with FastAPI and Docker](https://www.udemy.com/course/nlp-with-bert-in-python/)** | Udemy | **TBD** | **TBD** |
+| Data Science | **[2025 Deploy ML Model in Production with FastAPI and Docker](https://www.udemy.com/course/nlp-with-bert-in-python/)** | Udemy | 24/11/2024 | **IN PROGRESS** |
 |  |  |  |  |  |  
 | Machine Learning | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** | Coursera | 02/09/2024 | 08/09/2024 |
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
 | Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | **TBD** | **TBD** |
-| Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)** | Udemy | **TBD** | **TBD** |
+| Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)** | Udemy | 24/11/2024 | **IN PROGRESS** |
 |  |  |  |  |  |
 | SQL | **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** | Coursera | 29/09/2024 | 30/09/2024 |
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
