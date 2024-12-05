@@ -83,7 +83,7 @@ This section highlights the courses and certifications I have completed to learn
 | Machine Learning | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** | Coursera | 02/09/2024 | 08/09/2024 |
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
-| Machine Learning Operations (MLOps) | **[Complete MLOps Bootcamp With 10+ End To End ML Projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)** | Udemy | 30/11/2024 | **IN PROGRESS** |
+| Machine Learning Operations (MLOps) | **[Complete MLOps Bootcamp With 10+ End To End ML Projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)** | Udemy | 06/12/2024 | **IN PROGRESS** |
 |  |  |  |  |  |
 | Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | **TBD** | **TBD** |
 | Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)** | Udemy | 30/11/2024 | **IN PROGRESS** |
@@ -95,7 +95,7 @@ This section highlights the courses and certifications I have completed to learn
 | Excel | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 31/10/2024 |
 |  |  |  |  |  |   
 | Tableau | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 01/11/2024 | 01/11/2024 |
-| Tableau | **[Tableau 2024 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/)** | Udemy | 30/11/2024 | **IN PROGRESS** |
+| Tableau | **[Tableau 2024 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-de029437-c5fb-4adb-be93-f4cfb884a610/)** | Udemy | 30/11/2024 | 05/12/2024 |
 |  |  |  |  |  |  
 | A/B Testing | **[Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/certificate/UC-b1d01db5-36da-4649-877c-432f1cec6fa9/)** | Udemy | 23/10/2024 | 29/10/2024 |
 |  |  |  |  |  | 
