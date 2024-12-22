@@ -19,10 +19,10 @@ The original data came from [Kaggle](https://www.kaggle.com/datasets/fedesoriano
 
 The data was scraped from the [Steam Review Page](https://steamcommunity.com/app/2358720/reviews/) for the game from *10 September 2024* to *14 November 2024* (around 2 months).
 
-### Project 3: Sales & Customer Dashboard
-  > We aim to build two dashboards using Tableau to help stakeholders (including sales managers and executives) analyze sales performance and customers. The sales dashboard presents an overview of the sales metrics and trends to analyze year-over-year sales performance and understand sales trends. The customer dashboard provides an overview of customer data, trends and behaviours. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
+### Project 3: Sales & Customers Insights (Tableau) &nbsp; | &nbsp; [<ins>See Here!</ins>](Data_Science/Tableau_Sales-Customers-Insights)
+  > This project involves creating two interactive dashboards using Tableau to provide stakeholders, including sales managers and executives, with actionable insights into sales performance and customer behaviour. The dashboards are designed to facilitate data-driven decision-making by presenting key metrics, trends, and comparisons.
 
-The data was obtained from [DATA with BARAA](https://www.datawithbaraa.com/tableau/tableau-sales-project-thank-you/#google_vignette).
+The dataset for this project was sourced from [DATA with BARAA](https://www.datawithbaraa.com/tableau/tableau-sales-project-thank-you/#google_vignette).
 
 ## Guided Data Science Projects
 This section includes guided/beginner projects in data science. The details on these projects can be found on [Beginner Data Science Projects](https://github.com/CP-Ong/beginner-projects-data-science).
