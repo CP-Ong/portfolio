@@ -12,7 +12,7 @@ The original data came from [kaggle](https://www.kaggle.com/datasets/fedesoriano
 
 The data was scraped from the [Steam Review Page](https://steamcommunity.com/app/2358720/reviews/) for the game from *10 September 2024* to *14 November 2024* (around 2 months).
 
-### Project 3: Sales & Customers Insights (Tableau)
+### [Project 3: Sales & Customers Insights (Tableau)](Tableau_Sales-Customers-Insights)
   > We aim to build two dashboards using Tableau to help stakeholders (including sales managers and executives) analyze sales performance and customers. The sales dashboard presents an overview of the sales metrics and trends to analyze year-over-year sales performance and understand sales trends. The customer dashboard provides an overview of customer data, trends and behaviours. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 
 The data was obtained from [DATA with BARAA](https://www.datawithbaraa.com/tableau/tableau-sales-project-thank-you/#google_vignette).
