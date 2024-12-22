@@ -1,7 +1,7 @@
 # Project 3: Sales & Customers Insights (Tableau)
   > This project involves creating two interactive dashboards using Tableau to provide stakeholders, including sales managers and executives, with actionable insights into sales performance and customer behaviour. The dashboards are designed to facilitate data-driven decision-making by presenting key metrics, trends, and comparisons.
 
-The dataset for this project was sourced from [DATA with BARAA](https://www.datawithbaraa.com/tableau/tableau-sales-project-thank-you/#google_vignette). The dashboards can be viewed online on [Tableau Public](https://public.tableau.com/app/profile/chen.ping.ong/viz/SalesandCustomersInsightsProject/SalesDashboard). 
+The dataset for this project was sourced from [DATA with BARAA](https://www.datawithbaraa.com/tableau/tableau-sales-project-thank-you/#google_vignette). The dashboards can be viewed online on [Tableau Public](https://public.tableau.com/app/profile/chen.ping.ong/viz/SalesandCustomersInsightsProject/SalesDashboard). Alternatively, a *.twb* file is available for download.
 
 **Non-interactive previews of the dashboards can be found below.**
 
