@@ -72,11 +72,14 @@ In conclusion, I cleaned the data and created an interactive dashboard.
 The original data came from [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx).
 
 ## Courses and Certifications
-This section highlights the courses and certifications I have completed to learn new skills in relevant topics. These courses cover essential topics like mathematics and statistics, Python programming, machine learning, SQL, Excel, A/B Testing, data visualization tools, and Git.
+This section highlights the courses and certifications I have completed to learn new skills in relevant topics. These courses cover essential topics like mathematics and statistics, finance, Python programming, machine learning, SQL, Microsoft Excel, A/B Testing, data visualization tools, and Git.
 
 | Topic  | Course | Platform | Start Date | Completion Date |
 | :---: | :---: | :---: | :---: | :---: |
 | Mathematics | **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/KRUFN4LE739W)** | Coursera | 20/09/2024 | 22/09/2024 |
+|  |  |  |  |  |  
+| Finance / Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | 25/12/2024 | **IN PROGRESS** |
+| Finance / Quant | **[A Primer On Quant Trading](https://www.udemy.com/course/a-primer-on-quant-trading/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |  
 | Python | **[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/DIRJ3WEMJMCL)** | Coursera | 10/09/2024 | 14/09/2024 |
 | Python | **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** | Udemy | 23/09/2024 | **TBD** (Day 40) |
@@ -88,7 +91,7 @@ This section highlights the courses and certifications I have completed to learn
 | Machine Learning | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** | Coursera | 02/09/2024 | 08/09/2024 |
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
-| Machine Learning Operations (MLOps) | **[Complete MLOps Bootcamp With 10+ End To End ML Projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)** | Udemy | 23/12/2024 | **IN PROGRESS** |
+| Machine Learning Operations (MLOps) | **[Complete MLOps Bootcamp With 10+ End To End ML Projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)** | Udemy | 25/12/2024 | **IN PROGRESS** |
 |  |  |  |  |  |
 | Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/certificate/UC-6b87024d-370e-4347-a723-d523649160bb/)** | Udemy | 30/11/2024 | 06/12/2024 |
 | Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
