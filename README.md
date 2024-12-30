@@ -78,7 +78,9 @@ This section highlights the courses and certifications I have completed to learn
 | :---: | :---: | :---: | :---: | :---: |
 | Mathematics | **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/KRUFN4LE739W)** | Coursera | 20/09/2024 | 22/09/2024 |
 |  |  |  |  |  |  
-| Finance / Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | 28/12/2024 | **IN PROGRESS** |
+| Finance / Quant | **[Blockchain and Cryptocurrency Explained](https://www.coursera.org/learn/crypto-finance?specialization=financialtechnology)** | Coursera | **TBD** | **TBD** |
+| Finance / Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | **TBD** | **TBD** |
+| Finance / Quant | **[15.S12 - Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)** | MIT OpenCourseWare | **TBD** | **TBD** |
 | Finance / Quant | **[A Primer On Quant Trading](https://www.udemy.com/course/a-primer-on-quant-trading/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |  
 | Python | **[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/DIRJ3WEMJMCL)** | Coursera | 10/09/2024 | 14/09/2024 |
@@ -90,8 +92,6 @@ This section highlights the courses and certifications I have completed to learn
 |  |  |  |  |  |  
 | Machine Learning | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/61HRDL8VJDBW)** | Coursera | 02/09/2024 | 08/09/2024 |
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
-|  |  |  |  |  |
-| Machine Learning Operations (MLOps) | **[Complete MLOps Bootcamp With 10+ End To End ML Projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)** | Udemy | 28/12/2024 | **IN PROGRESS** |
 |  |  |  |  |  |
 | Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/certificate/UC-6b87024d-370e-4347-a723-d523649160bb/)** | Udemy | 30/11/2024 | 06/12/2024 |
 | Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
