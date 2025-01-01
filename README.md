@@ -94,8 +94,8 @@ This section highlights the courses and certifications I have completed to learn
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
 | Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/certificate/UC-6b87024d-370e-4347-a723-d523649160bb/)** | Udemy | 30/11/2024 | 06/12/2024 |
-| Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
 | Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | **TBD** | **TBD** |
+| Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |
 | Big Data | **[The Ultimate Hands-On Hadoop: Tame your Big Data!](https://www.udemy.com/certificate/UC-69616882-9062-49d1-8cb9-b48c2ccd5736/)** | Udemy | 28/12/2024 | 01/01/2025 |
 |  |  |  |  |  |
