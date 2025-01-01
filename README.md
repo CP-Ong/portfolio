@@ -78,8 +78,8 @@ This section highlights the courses and certifications I have completed to learn
 | :---: | :---: | :---: | :---: | :---: |
 | Mathematics | **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/KRUFN4LE739W)** | Coursera | 20/09/2024 | 22/09/2024 |
 |  |  |  |  |  |  
-| Finance / Quant | **[Blockchain and Cryptocurrency Explained](https://www.coursera.org/learn/crypto-finance?specialization=financialtechnology)** | Coursera | **TBD** | **TBD** |
-| Finance / Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | **TBD** | **TBD** |
+| Finance / Quant | **[Blockchain and Cryptocurrency Explained](https://www.coursera.org/learn/crypto-finance?specialization=financialtechnology)** | Coursera | 02/01/2025 | **IN PROGRESS** |
+| Finance / Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | 02/01/2025 | **IN PROGRESS** |
 | Finance / Quant | **[15.S12 - Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)** | MIT OpenCourseWare | **TBD** | **TBD** |
 | Finance / Quant | **[A Primer On Quant Trading](https://www.udemy.com/course/a-primer-on-quant-trading/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |  
@@ -97,7 +97,7 @@ This section highlights the courses and certifications I have completed to learn
 | Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
 | Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | **TBD** | **TBD** |
 |  |  |  |  |  |
-| Big Data | **[The Ultimate Hands-On Hadoop: Tame your Big Data!](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)** | Udemy | 28/12/2024 | **IN PROGRESS** |
+| Big Data | **[The Ultimate Hands-On Hadoop: Tame your Big Data!](https://www.udemy.com/certificate/UC-69616882-9062-49d1-8cb9-b48c2ccd5736/)** | Udemy | 28/12/2024 | 01/01/2025 |
 |  |  |  |  |  |
 | SQL | **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** | Coursera | 29/09/2024 | 30/09/2024 |
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
