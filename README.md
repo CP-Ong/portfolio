@@ -1,5 +1,5 @@
 # Portfolio by Chen Ping Ong
-This portfolio highlights my projects and accomplishments as an aspiring data analyst, data scientist, and quant. It showcases my expertise in data analysis, machine learning, and related fields. I am actively seeking opportunities in data analysis, data science, or quantitative roles to apply my skills and grow further.
+This portfolio highlights my projects and accomplishments as an aspiring data scientist and a quant. It showcases my expertise in data analysis, machine learning, and related fields. I am actively seeking opportunities in data science and quantitative roles to apply my skills and grow further.
 
 ## Background
 - **Master of Mathematics**  
@@ -79,9 +79,8 @@ This section highlights the courses and certifications I have completed to learn
 | Mathematics | **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/KRUFN4LE739W)** | Coursera | 20/09/2024 | 22/09/2024 |
 |  |  |  |  |  |  
 | Finance/Quant | **[Financial Technology (Fintech) Innovations Specialization](https://www.coursera.org/specializations/financialtechnology)** | Coursera | 02/01/2025 | **IN PROGRESS** |
-| Finance/Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | 02/01/2025 | **IN PROGRESS** |
+| Finance/Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | **TBD** | **TBD** |
 | Finance/Quant | **[15.S12 - Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)** | MIT OpenCourseWare | **TBD** | **TBD** |
-| Finance/Quant | **[A Primer On Quant Trading](https://www.udemy.com/course/a-primer-on-quant-trading/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |  
 | Python | **[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/DIRJ3WEMJMCL)** | Coursera | 10/09/2024 | 14/09/2024 |
 | Python | **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** | Udemy | 23/09/2024 | **TBD** (Day 40) |
@@ -97,11 +96,15 @@ This section highlights the courses and certifications I have completed to learn
 | Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | **TBD** | **TBD** |
 | Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |
+| Generative AI | **[Generative AI: OpenAI API, ChatGPT, and GPT-4 in Python](https://www.udemy.com/course/genai-openai-chatgpt/)** | Udemy | 07/01/2025 | **IN PROGRESS** |
+|  |  |  |  |  |
 | Big Data | **[The Ultimate Hands-On Hadoop: Tame your Big Data!](https://www.udemy.com/certificate/UC-69616882-9062-49d1-8cb9-b48c2ccd5736/)** | Udemy | 28/12/2024 | 01/01/2025 |
 |  |  |  |  |  |
 | SQL | **[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/CNBRJI413BWZ)** | Coursera | 29/09/2024 | 30/09/2024 |
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
 | SQL | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 30/10/2024 |
+|  |  |  |  |  |  
+| Cloud Services | **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** | Coursera | **TBD** | **TBD** |
 |  |  |  |  |  |  
 | Excel | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 31/10/2024 |
 |  |  |  |  |  |   
