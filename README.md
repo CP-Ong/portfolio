@@ -78,7 +78,7 @@ This section highlights the courses and certifications I have completed to learn
 | :---: | :---: | :---: | :---: | :---: |
 | Mathematics | **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/KRUFN4LE739W)** | Coursera | 20/09/2024 | 22/09/2024 |
 |  |  |  |  |  |  
-| Finance/Quant | **[Financial Technology (Fintech) Innovations Specialization](https://www.coursera.org/specializations/financialtechnology)** | Coursera | 02/01/2025 | **IN PROGRESS** |
+| Finance/Quant | **[Financial Technology (Fintech) Innovations Specialization](https://www.coursera.org/account/accomplishments/specialization/PNC4F8IECDYJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n)** | Coursera | 02/01/2025 | 07/01/2025 |
 | Finance/Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | **TBD** | **TBD** |
 | Finance/Quant | **[15.S12 - Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)** | MIT OpenCourseWare | **TBD** | **TBD** |
 |  |  |  |  |  |  
@@ -96,7 +96,7 @@ This section highlights the courses and certifications I have completed to learn
 | Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | **TBD** | **TBD** |
 | Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |
-| Generative AI | **[Generative AI: OpenAI API, ChatGPT, and GPT-4 in Python](https://www.udemy.com/course/genai-openai-chatgpt/)** | Udemy | 07/01/2025 | **IN PROGRESS** |
+| Generative AI | **[Generative AI: OpenAI API, ChatGPT, and GPT-4 in Python](https://www.udemy.com/course/genai-openai-chatgpt/)** | Udemy | 08/01/2025 | **IN PROGRESS** |
 |  |  |  |  |  |
 | Big Data | **[The Ultimate Hands-On Hadoop: Tame your Big Data!](https://www.udemy.com/certificate/UC-69616882-9062-49d1-8cb9-b48c2ccd5736/)** | Udemy | 28/12/2024 | 01/01/2025 |
 |  |  |  |  |  |
