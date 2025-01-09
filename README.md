@@ -1,5 +1,5 @@
 # Portfolio by Chen Ping Ong
-This portfolio highlights my projects and accomplishments as an aspiring data scientist and a quant. It showcases my expertise in data analysis, machine learning, and related fields. I am actively seeking opportunities in data science and quantitative roles to apply my skills and grow further.
+This portfolio highlights my projects and accomplishments as an aspiring data scientist and researcher. It showcases my expertise in data analysis, machine learning, and related fields. I am actively seeking opportunities in data science and research roles (machine learning and quantitative research) to apply my skills and grow further.
 
 ## Background
 - **Master of Mathematics**  
