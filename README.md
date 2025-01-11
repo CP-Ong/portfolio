@@ -1,5 +1,5 @@
 # Portfolio by Chen Ping Ong
-This portfolio highlights my projects and accomplishments as an aspiring data scientist and researcher. It showcases my expertise in data analysis, machine learning, and related fields. I am actively seeking opportunities in data science and research roles (machine learning and quantitative research) to apply my skills and grow further.
+This portfolio highlights my projects and accomplishments as an aspiring data scientist and machine learning researcher. It showcases my expertise in data analysis, machine learning, and related fields. I am actively seeking opportunities in data analytics, data science, and machine learning research roles to apply my skills and grow further.
 
 ## Background
 - **Master of Mathematics**  
@@ -78,9 +78,6 @@ This section highlights the courses and certifications I have completed to learn
 | :---: | :---: | :---: | :---: | :---: |
 | Mathematics | **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/KRUFN4LE739W)** | Coursera | 20/09/2024 | 22/09/2024 |
 |  |  |  |  |  |  
-| Finance/Quant | **[Financial Technology (Fintech) Innovations Specialization](https://www.coursera.org/account/accomplishments/specialization/PNC4F8IECDYJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n)** | Coursera | 02/01/2025 | 07/01/2025 |
-| Finance/Quant | **[18.S096 - Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)** | MIT OpenCourseWare | **TBD** | **TBD** |
-|  |  |  |  |  |  
 | Python | **[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/DIRJ3WEMJMCL)** | Coursera | 10/09/2024 | 14/09/2024 |
 | Python | **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** | Udemy | 23/09/2024 | **TBD** (Day 40) |
 | Python | **[Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/)** | Udemy | **TBD** | **TBD** |
@@ -92,7 +89,7 @@ This section highlights the courses and certifications I have completed to learn
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
 | Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/certificate/UC-6b87024d-370e-4347-a723-d523649160bb/)** | Udemy | 30/11/2024 | 06/12/2024 |
-| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | **TBD** | **TBD** |
+| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | 12/01/2025 | **IN PROGRESS** |
 | Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |
 | Generative AI | **[Generative AI: OpenAI API, ChatGPT, and GPT-4 in Python](https://www.udemy.com/certificate/UC-a550a4d0-190b-4abd-85a0-f24ebc729166/)** | Udemy | 07/01/2025 | 09/01/2025 |
@@ -103,7 +100,7 @@ This section highlights the courses and certifications I have completed to learn
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
 | SQL | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 30/10/2024 |
 |  |  |  |  |  |  
-| Cloud Services | **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** | Coursera | 10/01/2025 | **IN PROGRESS** |
+| Cloud Services | **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** | Coursera | 12/01/2025 | **IN PROGRESS** |
 |  |  |  |  |  |  
 | Excel | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 31/10/2024 |
 |  |  |  |  |  |   
@@ -113,3 +110,5 @@ This section highlights the courses and certifications I have completed to learn
 | A/B Testing | **[Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/certificate/UC-b1d01db5-36da-4649-877c-432f1cec6fa9/)** | Udemy | 23/10/2024 | 29/10/2024 |
 |  |  |  |  |  | 
 | Git & GitHub | **[The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-9055dd29-5480-44d9-9543-a31450e14468/)** | Udemy | 30/09/2024 | 13/10/2024 |
+|  |  |  |  |  |  
+| Finance/Quant | **[Financial Technology (Fintech) Innovations Specialization](https://www.coursera.org/account/accomplishments/specialization/PNC4F8IECDYJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n)** | Coursera | 02/01/2025 | 07/01/2025 |
