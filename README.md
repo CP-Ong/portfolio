@@ -89,7 +89,7 @@ This section highlights the courses and certifications I have completed to learn
 | Machine Learning | **[Machine Learning A-Z: AI, Python & R + ChatGPT Prize (2024)](https://www.udemy.com/certificate/UC-223ac634-676b-43fc-896a-2d13b350e1ca/)** | Udemy | 22/10/2024 | 25/10/2024 |
 |  |  |  |  |  |
 | Deep Learning | **[Recommender Systems and Deep Learning in Python](https://www.udemy.com/certificate/UC-6b87024d-370e-4347-a723-d523649160bb/)** | Udemy | 30/11/2024 | 06/12/2024 |
-| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | 12/01/2025 | **IN PROGRESS** |
+| Deep Learning | **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** | Coursera | 16/01/2025 | **IN PROGRESS** |
 | Deep Learning | **[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)** | Udemy | **TBD** | **TBD** |
 |  |  |  |  |  |
 | Generative AI | **[Generative AI: OpenAI API, ChatGPT, and GPT-4 in Python](https://www.udemy.com/certificate/UC-a550a4d0-190b-4abd-85a0-f24ebc729166/)** | Udemy | 07/01/2025 | 09/01/2025 |
@@ -100,7 +100,7 @@ This section highlights the courses and certifications I have completed to learn
 | SQL | **[Complete SQL and Databases Bootcamp](https://www.udemy.com/certificate/UC-c9f2d086-3d38-4cdc-9e59-2f70e7171d81/)** | Udemy | 16/10/2024 | 22/10/2024 |
 | SQL | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 30/10/2024 |
 |  |  |  |  |  |  
-| Cloud Services | **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** | Coursera | 12/01/2025 | **IN PROGRESS** |
+| Cloud Services | **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** | Coursera | 16/01/2025 | **IN PROGRESS** |
 |  |  |  |  |  |  
 | Excel | **[Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)** | YouTube | 30/10/2024 | 31/10/2024 |
 |  |  |  |  |  |   
