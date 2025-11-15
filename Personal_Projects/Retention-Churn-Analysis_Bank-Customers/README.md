@@ -1,7 +1,7 @@
 # Project 1: Retention & Churn Analysis for Bank Customers: Product Insights & Cohort Analytics
   > We aim to analyze user retention, churn drivers, and product adoption patterns for bank customers. The goal is to identify high-risk segments, understand product/behaviour patterns, and provide actionable insights for product and engagement strategies.
 
-The dataset for this project was sourced from [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset) 
+The dataset for this project was sourced from [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset).
 
 ## Objectives
 - Measure overall retention and churn rates  
