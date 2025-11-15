@@ -1,5 +1,5 @@
-# Personal Projects by Chen Ping Ong
-This directory contains my personal projects.
+# Data Science Projects by Chen Ping Ong
+This directory contains my personal Data Science projects.
 
 ## Projects
 ### [Project 1: Predicting Stroke Using Machine Learning (Classification)](Classification_Stroke)
