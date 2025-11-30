@@ -6,8 +6,8 @@ This portfolio highlights my projects and accomplishments as an aspiring data sc
   - University: University of Warwick, United Kingdom  
   - Duration: September 2020 - July 2024
 
-## Personal Projects
-This section includes my personal projects.
+## Data Science Projects
+This section includes my data science projects.
 
 ### Project 1: Predicting Stroke Using Machine Learning (Classification) &nbsp; | &nbsp; [<ins>See Here!</ins>](Data_Science/Classification_Stroke)
   > We aim to visualize the relationships between various habits/factors and strokes & predict stroke events with the best model and hyper-tuned parameters.
