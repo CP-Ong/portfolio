@@ -1,4 +1,4 @@
-# Old Data Projects by Chen Ping Ong
+# Data Projects by Chen Ping Ong
 This portfolio highlights my projects and accomplishments as an aspiring data scientist and machine learning researcher. It showcases my expertise in data analysis, machine learning, and related fields. I am actively seeking opportunities in data analytics, data science, and machine learning research roles to apply my skills and grow further.
 
 ## Background
